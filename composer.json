@@ -12,6 +12,8 @@
     },
  "autoload": {
         "psr-4": {"vats\\check\\": "checksum_v2/"}
-    }
+    },
+    "minimum-stability": "dev",
+"prefer-stable": true
 
 }
