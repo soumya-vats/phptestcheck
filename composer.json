@@ -12,7 +12,6 @@
     },
  "autoload": {
         "psr-4": {"vats\\check\\": "checksum_v2/"}
-    },
-    "license": "MIT"
+    }
 
 }
