@@ -1,5 +1,5 @@
 {
-    "name": "vats/test_checkphp",
+    "name": "vats/test_checkphp1",
     "description": "this is a test check",
     "type": "library",
     "require": {
